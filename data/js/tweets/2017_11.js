@@ -53,7 +53,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 936159936832245760,
   "created_at" : "2017-11-30 09:08:16 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -62,7 +62,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -94,6 +94,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Py2CvD9PQH"
     } ],
     "hashtags" : [ ],
@@ -110,7 +111,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 936105772039143424,
   "created_at" : "2017-11-30 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -119,7 +120,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -151,6 +152,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/D4vvKNjXHL"
     } ],
     "hashtags" : [ ],
@@ -167,7 +169,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 936105522000023552,
   "created_at" : "2017-11-30 05:32:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -176,7 +178,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Quim Monz\u00F3",
@@ -220,6 +222,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xWlITmkJ2G"
     } ],
     "hashtags" : [ ],
@@ -236,7 +239,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 936105325752659970,
   "created_at" : "2017-11-30 05:31:16 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -245,7 +248,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Francesc Guillem",
@@ -283,6 +286,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UODmwiSPtb"
     } ],
     "hashtags" : [ ],
@@ -299,7 +303,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 936105147196956672,
   "created_at" : "2017-11-30 05:30:33 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -308,7 +312,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -340,6 +344,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/w9G03qLmux"
     } ],
     "hashtags" : [ ],
@@ -356,7 +361,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935743378398023680,
   "created_at" : "2017-11-29 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -365,7 +370,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -397,6 +402,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7dWaYhB82u"
     } ],
     "hashtags" : [ ],
@@ -413,7 +419,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935743129529053186,
   "created_at" : "2017-11-29 05:32:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -422,7 +428,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -454,6 +460,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qzilCKoFQb"
     } ],
     "hashtags" : [ ],
@@ -470,7 +477,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935742876344029184,
   "created_at" : "2017-11-29 05:31:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -479,7 +486,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Stephen",
@@ -517,6 +524,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QBeQNROtIl"
     } ],
     "hashtags" : [ ],
@@ -533,7 +541,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935742729736384512,
   "created_at" : "2017-11-29 05:30:26 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -608,6 +616,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 544
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/mbxVUhaT8l"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/michalmigurski\/status\/935378051545755649\/photo\/1",
@@ -638,6 +647,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 545
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/mbxVUhaT8l"
       } ],
       "hashtags" : [ ],
@@ -666,7 +676,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935540326223306753,
   "created_at" : "2017-11-28 16:06:09 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -675,7 +685,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -707,6 +717,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nZGlLdjSm3"
     } ],
     "hashtags" : [ ],
@@ -723,7 +734,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935380994751893505,
   "created_at" : "2017-11-28 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -732,7 +743,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -764,6 +775,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/R8oEmM8VIq"
     } ],
     "hashtags" : [ ],
@@ -780,7 +792,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935380772416040961,
   "created_at" : "2017-11-28 05:32:09 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -789,7 +801,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -821,6 +833,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CJqupHdkk2"
     } ],
     "hashtags" : [ ],
@@ -837,7 +850,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935380497651429376,
   "created_at" : "2017-11-28 05:31:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -846,7 +859,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -878,6 +891,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BdpZNwsElB"
     } ],
     "hashtags" : [ ],
@@ -894,7 +908,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935380303161581568,
   "created_at" : "2017-11-28 05:30:17 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -903,7 +917,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -935,6 +949,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TkwmlAGUJZ"
     } ],
     "hashtags" : [ ],
@@ -951,7 +966,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935018615065194496,
   "created_at" : "2017-11-27 05:33:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -960,7 +975,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -992,6 +1007,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JBcRXO7vo0"
     } ],
     "hashtags" : [ ],
@@ -1008,7 +1024,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935018355811024896,
   "created_at" : "2017-11-27 05:32:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1017,7 +1033,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1049,6 +1065,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JGWce39zvR"
     } ],
     "hashtags" : [ ],
@@ -1065,7 +1082,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935018132409864192,
   "created_at" : "2017-11-27 05:31:09 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1074,7 +1091,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1106,6 +1123,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tTPYtLuxVo"
     } ],
     "hashtags" : [ ],
@@ -1122,7 +1140,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 935017848451338240,
   "created_at" : "2017-11-27 05:30:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1134,7 +1152,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Steer",
+      "name" : "Adam Steer, doctor of mischiefology",
       "screen_name" : "adamdsteer",
       "indices" : [ 3, 14 ],
       "id_str" : "768386760216805376",
@@ -1202,11 +1220,11 @@ Grailbird.data.tweets_2017_11 =
     "in_reply_to_screen_name" : "MammothMapping",
     "in_reply_to_user_id_str" : "257682823",
     "user" : {
-      "name" : "Adam Steer",
+      "name" : "Adam Steer, doctor of mischiefology",
       "screen_name" : "adamdsteer",
       "protected" : false,
       "id_str" : "768386760216805376",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777651186597924864\/fWLRz7Kb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/968078946376892416\/75_Yvpeg_normal.jpg",
       "id" : 768386760216805376,
       "verified" : false
     }
@@ -1214,7 +1232,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 934361532405833728,
   "created_at" : "2017-11-25 10:02:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1269,7 +1287,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "rhundhausen",
       "protected" : false,
       "id_str" : "131530165",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795493040014041089\/aYQ2LNq5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025581683142258688\/gIsz4Ouy_normal.jpg",
       "id" : 131530165,
       "verified" : false
     }
@@ -1277,7 +1295,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 934076199055347712,
   "created_at" : "2017-11-24 15:08:14 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1286,7 +1304,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1318,6 +1336,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ODMkEEBwdG"
     } ],
     "hashtags" : [ ],
@@ -1334,7 +1353,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933931440269602816,
   "created_at" : "2017-11-24 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1343,7 +1362,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1375,6 +1394,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/746K2EBhBc"
     } ],
     "hashtags" : [ ],
@@ -1391,7 +1411,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933931188087123968,
   "created_at" : "2017-11-24 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1400,7 +1420,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1432,6 +1452,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IGBnCyE66c"
     } ],
     "hashtags" : [ ],
@@ -1448,7 +1469,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933930948613337088,
   "created_at" : "2017-11-24 05:31:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1457,7 +1478,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1489,6 +1510,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JE2vY9j0X1"
     } ],
     "hashtags" : [ ],
@@ -1505,7 +1527,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933930771810869248,
   "created_at" : "2017-11-24 05:30:22 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1569,6 +1591,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5s6mFswnEY"
       } ],
       "hashtags" : [ {
@@ -1595,7 +1618,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933605718212702209,
   "created_at" : "2017-11-23 07:58:43 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1604,7 +1627,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1636,6 +1659,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZIwrIGR0M3"
     } ],
     "hashtags" : [ ],
@@ -1652,7 +1676,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933569057126801409,
   "created_at" : "2017-11-23 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1661,7 +1685,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1693,6 +1717,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XdY96GIuQw"
     } ],
     "hashtags" : [ ],
@@ -1709,7 +1734,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933568805619499008,
   "created_at" : "2017-11-23 05:32:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1718,7 +1743,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1750,6 +1775,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ojWCnVaFfb"
     } ],
     "hashtags" : [ ],
@@ -1766,7 +1792,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933568549305700352,
   "created_at" : "2017-11-23 05:31:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1775,7 +1801,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1807,6 +1833,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uOC0tmT8t0"
     } ],
     "hashtags" : [ ],
@@ -1823,7 +1850,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933568352345313280,
   "created_at" : "2017-11-23 05:30:14 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1874,7 +1901,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933424065892712448,
   "created_at" : "2017-11-22 19:56:54 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -1900,7 +1927,7 @@ Grailbird.data.tweets_2017_11 =
   "id_str" : "933423870073344001",
   "text" : "RT @carstenkessler: We have an open position for an assistant professor in Geoinformatics here at AAU in Copenhagen: https:\/\/t.co\/HVqvhGLsP\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1939,7 +1966,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933423870073344001,
   "created_at" : "2017-11-22 19:56:07 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2031,7 +2058,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933370036919635968,
   "created_at" : "2017-11-22 16:22:12 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2040,7 +2067,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2072,6 +2099,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XR9mX4vpjV"
     } ],
     "hashtags" : [ ],
@@ -2088,7 +2116,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933206669324111872,
   "created_at" : "2017-11-22 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2097,7 +2125,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2129,6 +2157,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kJqnOaGOkW"
     } ],
     "hashtags" : [ ],
@@ -2145,7 +2174,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933206413710520320,
   "created_at" : "2017-11-22 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2154,7 +2183,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2186,6 +2215,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/X6NCsQWNpZ"
     } ],
     "hashtags" : [ ],
@@ -2202,7 +2232,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933206168196988928,
   "created_at" : "2017-11-22 05:31:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2211,7 +2241,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2243,6 +2273,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jgKxW7FPtk"
     } ],
     "hashtags" : [ ],
@@ -2259,7 +2290,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 933205951024205825,
   "created_at" : "2017-11-22 05:30:11 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2268,7 +2299,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2300,6 +2331,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CICiFW8SxN"
     } ],
     "hashtags" : [ ],
@@ -2316,7 +2348,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932844278895861761,
   "created_at" : "2017-11-21 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2325,7 +2357,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2357,6 +2389,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gAwOmRYzRi"
     } ],
     "hashtags" : [ ],
@@ -2373,7 +2406,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932844024779694080,
   "created_at" : "2017-11-21 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2382,7 +2415,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2414,6 +2447,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WORZ7z1S2E"
     } ],
     "hashtags" : [ ],
@@ -2430,7 +2464,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932843786245431296,
   "created_at" : "2017-11-21 05:31:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2439,7 +2473,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2471,6 +2505,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OBw5WbKROm"
     } ],
     "hashtags" : [ ],
@@ -2487,7 +2522,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932843546842976256,
   "created_at" : "2017-11-21 05:30:07 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2528,6 +2563,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rwCzQyg64a"
     } ],
     "hashtags" : [ {
@@ -2560,7 +2596,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932541629575155713,
   "created_at" : "2017-11-20 09:30:24 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2569,7 +2605,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2601,6 +2637,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ud9SWnnCpy"
     } ],
     "hashtags" : [ {
@@ -2620,7 +2657,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932481890866647041,
   "created_at" : "2017-11-20 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2629,7 +2666,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -2661,6 +2698,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cfEpRZGQ0J"
     } ],
     "hashtags" : [ ],
@@ -2677,7 +2715,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932481639254503425,
   "created_at" : "2017-11-20 05:32:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2686,7 +2724,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
@@ -2724,6 +2762,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ff3Oaa6O8S"
     } ],
     "hashtags" : [ {
@@ -2743,7 +2782,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932481384496680961,
   "created_at" : "2017-11-20 05:31:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2752,7 +2791,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Victor P.A.",
@@ -2790,6 +2829,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QDKZ1cbMCp"
     } ],
     "hashtags" : [ ],
@@ -2806,7 +2846,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 932481142409826304,
   "created_at" : "2017-11-20 05:30:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2847,6 +2887,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bIhxOLhe1t"
     } ],
     "hashtags" : [ ],
@@ -2858,7 +2899,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931795511199305728,
   "created_at" : "2017-11-18 08:05:36 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2914,7 +2955,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931788534582796289,
   "created_at" : "2017-11-18 07:37:53 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -2932,7 +2973,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "785810885302296577",
       "id" : 785810885302296577
     }, {
-      "name" : "laia",
+      "name" : "Laia Botey",
       "screen_name" : "nalaiabotey",
       "indices" : [ 16, 28 ],
       "id_str" : "569196882",
@@ -3016,11 +3057,11 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "166267181",
       "id" : 166267181
     }, {
-      "name" : "GeoStarters",
+      "name" : "Geostarters",
       "screen_name" : "geostarters",
       "indices" : [ 197, 209 ],
-      "id_str" : "1978512078",
-      "id" : 1978512078
+      "id_str" : "1007162478927761408",
+      "id" : 1007162478927761408
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3037,7 +3078,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "comunificadora",
   "in_reply_to_user_id_str" : "785810885302296577",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3046,7 +3087,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3078,6 +3119,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HoNk3arztj"
     } ],
     "hashtags" : [ ],
@@ -3094,7 +3136,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931394726066040832,
   "created_at" : "2017-11-17 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3103,7 +3145,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3135,6 +3177,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aXQPvHqoRm"
     } ],
     "hashtags" : [ ],
@@ -3151,7 +3194,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931394474172919808,
   "created_at" : "2017-11-17 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3160,14 +3203,14 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Klokan Technologies",
-      "screen_name" : "klokantech",
+      "screen_name" : "KlokanTech",
       "indices" : [ 99, 110 ],
-      "id_str" : "46369870",
-      "id" : 46369870
+      "id_str" : "1063485173046628352",
+      "id" : 1063485173046628352
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/931394238507569152\/photo\/1",
@@ -3198,6 +3241,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YmquiOUZJz"
     } ],
     "hashtags" : [ ],
@@ -3214,7 +3258,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931394238507569152,
   "created_at" : "2017-11-17 05:31:05 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3223,7 +3267,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3255,6 +3299,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OaJDEBKAMq"
     } ],
     "hashtags" : [ ],
@@ -3271,7 +3316,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931393996500471808,
   "created_at" : "2017-11-17 05:30:07 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3283,7 +3328,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Juan Luis Cano",
+      "name" : "Juan Luis Cano (no time to tweet, need O\u2082)",
       "screen_name" : "astrojuanlu",
       "indices" : [ 0, 12 ],
       "id_str" : "4054223841",
@@ -3310,7 +3355,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "astrojuanlu",
   "in_reply_to_user_id_str" : "4054223841",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3322,7 +3367,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Juan Luis Cano",
+      "name" : "Juan Luis Cano (no time to tweet, need O\u2082)",
       "screen_name" : "astrojuanlu",
       "indices" : [ 0, 12 ],
       "id_str" : "4054223841",
@@ -3349,7 +3394,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "astrojuanlu",
   "in_reply_to_user_id_str" : "4054223841",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3382,7 +3427,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "Rara_Urbis",
   "in_reply_to_user_id_str" : "244906156",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3427,7 +3472,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "contrastant2014",
   "in_reply_to_user_id_str" : "2312678647",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3460,7 +3505,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "AniraEscrichs",
   "in_reply_to_user_id_str" : "910639245701853186",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3528,7 +3573,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931206768918695943,
   "created_at" : "2017-11-16 17:06:09 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3552,7 +3597,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "110946158",
       "id" : 110946158
     }, {
-      "name" : "Gu\u00E0rdia Urbana BCN",
+      "name" : "Gu\u00E0rdia Urbana Barcelona",
       "screen_name" : "barcelona_GUB",
       "indices" : [ 79, 93 ],
       "id_str" : "442728468",
@@ -3576,7 +3621,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "84053338",
       "id" : 84053338
     }, {
-      "name" : "Partit Dem\u00F2crata",
+      "name" : "Partit Dem\u00F2crata \uD83C\uDF97",
       "screen_name" : "Pdemocratacat",
       "indices" : [ 161, 175 ],
       "id_str" : "10242562",
@@ -3615,7 +3660,7 @@ Grailbird.data.tweets_2017_11 =
   "in_reply_to_screen_name" : "oriol_carol",
   "in_reply_to_user_id_str" : "866713356",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3681,6 +3726,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/y90QXE9AuD"
       } ],
       "hashtags" : [ {
@@ -3715,7 +3761,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931081136855502848,
   "created_at" : "2017-11-16 08:46:56 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3724,7 +3770,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3756,6 +3802,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o5G8TE0GjY"
     } ],
     "hashtags" : [ ],
@@ -3772,7 +3819,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931032340956053504,
   "created_at" : "2017-11-16 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3781,7 +3828,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3813,6 +3860,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iXsqCdblle"
     } ],
     "hashtags" : [ ],
@@ -3829,7 +3877,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931032092384944129,
   "created_at" : "2017-11-16 05:32:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3838,7 +3886,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3870,6 +3918,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/57Fwi3cSFI"
     } ],
     "hashtags" : [ ],
@@ -3886,7 +3935,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931031844266573824,
   "created_at" : "2017-11-16 05:31:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3895,7 +3944,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3927,6 +3976,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kp7JRUfayS"
     } ],
     "hashtags" : [ ],
@@ -3943,7 +3993,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 931031661319540736,
   "created_at" : "2017-11-16 05:30:20 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -3952,7 +4002,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -3984,6 +4034,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BrLsNNBvg7"
     } ],
     "hashtags" : [ ],
@@ -4000,7 +4051,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930669951094083585,
   "created_at" : "2017-11-15 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4009,7 +4060,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4041,6 +4092,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sz5PEmwmke"
     } ],
     "hashtags" : [ ],
@@ -4057,7 +4109,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930669724337352705,
   "created_at" : "2017-11-15 05:32:07 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4066,7 +4118,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4098,6 +4150,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nws6WtJHiM"
     } ],
     "hashtags" : [ ],
@@ -4114,7 +4167,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930669446380834816,
   "created_at" : "2017-11-15 05:31:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4123,7 +4176,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4155,6 +4208,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BGNOHAPaSp"
     } ],
     "hashtags" : [ ],
@@ -4171,7 +4225,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930669248355164162,
   "created_at" : "2017-11-15 05:30:14 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4180,7 +4234,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4212,6 +4266,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/znHKM1JEmc"
     } ],
     "hashtags" : [ ],
@@ -4228,7 +4283,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930307561869504512,
   "created_at" : "2017-11-14 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4237,7 +4292,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4269,6 +4324,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fG6qKSfojL"
     } ],
     "hashtags" : [ ],
@@ -4285,7 +4341,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930307315890376711,
   "created_at" : "2017-11-14 05:32:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4294,7 +4350,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4326,6 +4382,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gt8syXFGnL"
     } ],
     "hashtags" : [ ],
@@ -4342,7 +4399,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930307060935352321,
   "created_at" : "2017-11-14 05:31:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4351,7 +4408,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4383,6 +4440,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/W3IwM4avLH"
     } ],
     "hashtags" : [ ],
@@ -4399,7 +4457,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 930306865782837248,
   "created_at" : "2017-11-14 05:30:15 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4408,7 +4466,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4440,6 +4498,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JLXPI9xMjn"
     } ],
     "hashtags" : [ ],
@@ -4456,7 +4515,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 929945176528875520,
   "created_at" : "2017-11-13 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4465,7 +4524,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4497,6 +4556,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZUB8wXEblT"
     } ],
     "hashtags" : [ ],
@@ -4513,7 +4573,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 929944921624236032,
   "created_at" : "2017-11-13 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4522,7 +4582,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4554,6 +4614,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vOK7aRiNex"
     } ],
     "hashtags" : [ ],
@@ -4570,7 +4631,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 929944678161453056,
   "created_at" : "2017-11-13 05:31:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4579,7 +4640,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4611,6 +4672,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AfVOrx9GcK"
     } ],
     "hashtags" : [ ],
@@ -4627,7 +4689,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 929944473471250432,
   "created_at" : "2017-11-13 05:30:14 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4640,10 +4702,10 @@ Grailbird.data.tweets_2017_11 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Klokan Technologies",
-      "screen_name" : "klokantech",
+      "screen_name" : "KlokanTech",
       "indices" : [ 3, 14 ],
-      "id_str" : "46369870",
-      "id" : 46369870
+      "id_str" : "1063485173046628352",
+      "id" : 1063485173046628352
     }, {
       "name" : "Copernicus Masters",
       "screen_name" : "CopernicusEMC",
@@ -4720,6 +4782,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KPaqcQUlLo"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/klokantech\/status\/929378213863874561\/photo\/1",
@@ -4750,6 +4813,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KPaqcQUlLo"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/klokantech\/status\/929378213863874561\/photo\/1",
@@ -4780,6 +4844,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KPaqcQUlLo"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/klokantech\/status\/929378213863874561\/photo\/1",
@@ -4810,6 +4875,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 2000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KPaqcQUlLo"
       } ],
       "hashtags" : [ {
@@ -4837,11 +4903,11 @@ Grailbird.data.tweets_2017_11 =
     "id" : 929378213863874561,
     "created_at" : "2017-11-11 16:00:07 +0000",
     "user" : {
-      "name" : "Klokan Technologies",
-      "screen_name" : "klokantech",
+      "name" : "MapTiler",
+      "screen_name" : "MapTiler",
       "protected" : false,
       "id_str" : "46369870",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459488612346642433\/WC3_n8gD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068074639983816704\/rUHHcA2P_normal.jpg",
       "id" : 46369870,
       "verified" : false
     }
@@ -4849,7 +4915,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 929425161262129154,
   "created_at" : "2017-11-11 19:06:40 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4858,7 +4924,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4890,6 +4956,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/krvlpnxhAV"
     } ],
     "hashtags" : [ ],
@@ -4906,7 +4973,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928858014693711872,
   "created_at" : "2017-11-10 05:33:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4915,7 +4982,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -4947,6 +5014,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/y2tutXaUHD"
     } ],
     "hashtags" : [ ],
@@ -4963,7 +5031,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928857770237091841,
   "created_at" : "2017-11-10 05:32:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -4972,7 +5040,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5004,6 +5072,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/T2W9lSa8gd"
     } ],
     "hashtags" : [ ],
@@ -5020,7 +5089,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928857509007450112,
   "created_at" : "2017-11-10 05:31:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5029,7 +5098,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5061,6 +5130,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qyvDVNNmDP"
     } ],
     "hashtags" : [ ],
@@ -5077,7 +5147,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928857286952579072,
   "created_at" : "2017-11-10 05:30:09 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5086,7 +5156,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5118,6 +5188,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RyornTnxcT"
     } ],
     "hashtags" : [ ],
@@ -5134,7 +5205,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928495878419206151,
   "created_at" : "2017-11-09 05:34:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5143,7 +5214,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5175,6 +5246,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Weg4cVO1pc"
     } ],
     "hashtags" : [ ],
@@ -5191,7 +5263,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928495628681908224,
   "created_at" : "2017-11-09 05:33:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5200,7 +5272,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Naci\u00F3n Rotonda",
@@ -5238,6 +5310,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qttSeuMSib"
     } ],
     "hashtags" : [ ],
@@ -5254,7 +5327,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928495124950155264,
   "created_at" : "2017-11-09 05:31:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5263,7 +5336,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5295,6 +5368,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6zB152HuSe"
     } ],
     "hashtags" : [ ],
@@ -5311,7 +5385,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928494890819964928,
   "created_at" : "2017-11-09 05:30:07 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5413,7 +5487,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928340161234075650,
   "created_at" : "2017-11-08 19:15:16 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5426,10 +5500,10 @@ Grailbird.data.tweets_2017_11 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Klokan Technologies",
-      "screen_name" : "klokantech",
+      "screen_name" : "KlokanTech",
       "indices" : [ 3, 14 ],
-      "id_str" : "46369870",
-      "id" : 46369870
+      "id_str" : "1063485173046628352",
+      "id" : 1063485173046628352
     }, {
       "name" : "Copernicus EU",
       "screen_name" : "CopernicusEU",
@@ -5515,6 +5589,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/J2451CgbeQ"
       } ],
       "hashtags" : [ {
@@ -5534,11 +5609,11 @@ Grailbird.data.tweets_2017_11 =
     "id" : 928243652584976385,
     "created_at" : "2017-11-08 12:51:47 +0000",
     "user" : {
-      "name" : "Klokan Technologies",
-      "screen_name" : "klokantech",
+      "name" : "MapTiler",
+      "screen_name" : "MapTiler",
       "protected" : false,
       "id_str" : "46369870",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459488612346642433\/WC3_n8gD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068074639983816704\/rUHHcA2P_normal.jpg",
       "id" : 46369870,
       "verified" : false
     }
@@ -5546,7 +5621,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928245604974845952,
   "created_at" : "2017-11-08 12:59:32 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5555,7 +5630,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5587,6 +5662,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VbYbuFzIUQ"
     } ],
     "hashtags" : [ ],
@@ -5603,7 +5679,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928133279718440960,
   "created_at" : "2017-11-08 05:33:12 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5612,7 +5688,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Naci\u00F3n Rotonda",
@@ -5650,6 +5726,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Vco41a4OW9"
     } ],
     "hashtags" : [ ],
@@ -5666,7 +5743,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928132991989309440,
   "created_at" : "2017-11-08 05:32:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5675,7 +5752,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5707,6 +5784,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/umVVScVj0q"
     } ],
     "hashtags" : [ ],
@@ -5723,7 +5801,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928132739794128896,
   "created_at" : "2017-11-08 05:31:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5732,7 +5810,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5764,6 +5842,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/si1MiqpxnI"
     } ],
     "hashtags" : [ ],
@@ -5780,7 +5859,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 928132516221014016,
   "created_at" : "2017-11-08 05:30:10 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5789,7 +5868,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5821,6 +5900,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gKvaANkU62"
     } ],
     "hashtags" : [ ],
@@ -5837,7 +5917,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927770845832990721,
   "created_at" : "2017-11-07 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5846,7 +5926,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5878,6 +5958,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LAWiqFZm54"
     } ],
     "hashtags" : [ ],
@@ -5894,7 +5975,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927770603045707777,
   "created_at" : "2017-11-07 05:32:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5903,7 +5984,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5935,6 +6016,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9IYq5D2gVX"
     } ],
     "hashtags" : [ ],
@@ -5951,7 +6033,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927770358517846016,
   "created_at" : "2017-11-07 05:31:05 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -5960,7 +6042,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5992,6 +6074,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CoWfgaefJl"
     } ],
     "hashtags" : [ ],
@@ -6008,7 +6091,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927770129332568065,
   "created_at" : "2017-11-07 05:30:10 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6081,6 +6164,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/H1POxoW7Gm"
       } ],
       "hashtags" : [ {
@@ -6107,7 +6191,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927651241764773888,
   "created_at" : "2017-11-06 21:37:45 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6154,6 +6238,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PhxUglYKal"
     } ],
     "hashtags" : [ ],
@@ -6195,6 +6280,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PhxUglYKal"
       } ],
       "hashtags" : [ ],
@@ -6210,7 +6296,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "tjukanov",
       "protected" : false,
       "id_str" : "2198358416",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880814140155199488\/9onM1pdq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040538162085462016\/rlZ5v32Y_normal.jpg",
       "id" : 2198358416,
       "verified" : false
     }
@@ -6218,7 +6304,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927452093656584198,
   "created_at" : "2017-11-06 08:26:25 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6227,7 +6313,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6259,6 +6345,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9IE00ELgO3"
     } ],
     "hashtags" : [ ],
@@ -6275,7 +6362,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927408472643080192,
   "created_at" : "2017-11-06 05:33:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6284,7 +6371,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6316,6 +6403,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XODJcjwVFK"
     } ],
     "hashtags" : [ ],
@@ -6332,7 +6420,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927408210830659586,
   "created_at" : "2017-11-06 05:32:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6341,7 +6429,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6373,6 +6461,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/L2N4svutwq"
     } ],
     "hashtags" : [ ],
@@ -6389,7 +6478,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927407995985846273,
   "created_at" : "2017-11-06 05:31:11 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6398,7 +6487,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6430,6 +6519,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ENUFiH3EbA"
     } ],
     "hashtags" : [ ],
@@ -6446,7 +6536,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 927407710731194368,
   "created_at" : "2017-11-06 05:30:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6504,6 +6594,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1086
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/GY486yLGcK"
       } ],
       "hashtags" : [ ],
@@ -6527,7 +6618,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 926413024478494721,
   "created_at" : "2017-11-03 11:37:31 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6536,7 +6627,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6568,6 +6659,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/c0pGplJWyT"
     } ],
     "hashtags" : [ ],
@@ -6584,7 +6676,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 926321364558057472,
   "created_at" : "2017-11-03 05:33:18 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6593,7 +6685,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6625,6 +6717,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nAsTieRrp7"
     } ],
     "hashtags" : [ ],
@@ -6641,7 +6734,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 926321042980769792,
   "created_at" : "2017-11-03 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6650,7 +6743,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6682,6 +6775,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O6I2umZTqf"
     } ],
     "hashtags" : [ ],
@@ -6698,7 +6792,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 926320790936735744,
   "created_at" : "2017-11-03 05:31:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6707,7 +6801,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6739,6 +6833,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xJFZe6QLZW"
     } ],
     "hashtags" : [ ],
@@ -6755,7 +6850,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 926320563731222528,
   "created_at" : "2017-11-03 05:30:07 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6764,7 +6859,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6796,6 +6891,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LVPAEvD3Za"
     } ],
     "hashtags" : [ ],
@@ -6812,7 +6908,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925958907687788544,
   "created_at" : "2017-11-02 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6821,7 +6917,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6853,6 +6949,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VY7Ztqnjht"
     } ],
     "hashtags" : [ ],
@@ -6869,7 +6966,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925958668033634304,
   "created_at" : "2017-11-02 05:32:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6878,7 +6975,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6910,6 +7007,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5kW5V33Ztl"
     } ],
     "hashtags" : [ ],
@@ -6926,7 +7024,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925958414039121920,
   "created_at" : "2017-11-02 05:31:04 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6935,7 +7033,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -6967,6 +7065,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vQk7Mnmfym"
     } ],
     "hashtags" : [ ],
@@ -6983,7 +7082,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925958158639681537,
   "created_at" : "2017-11-02 05:30:03 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -6992,7 +7091,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -7024,6 +7123,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CRmG7z9C7M"
     } ],
     "hashtags" : [ ],
@@ -7040,7 +7140,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925596520791101440,
   "created_at" : "2017-11-01 05:33:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -7049,7 +7149,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -7081,6 +7181,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/skGJC3reP7"
     } ],
     "hashtags" : [ ],
@@ -7097,7 +7198,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925596267543191552,
   "created_at" : "2017-11-01 05:32:01 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -7106,7 +7207,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -7138,6 +7239,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hli83zm3ht"
     } ],
     "hashtags" : [ ],
@@ -7154,7 +7256,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925596017935953920,
   "created_at" : "2017-11-01 05:31:02 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
@@ -7163,7 +7265,7 @@ Grailbird.data.tweets_2017_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -7195,6 +7297,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CshyvUorrF"
     } ],
     "hashtags" : [ ],
@@ -7211,7 +7314,7 @@ Grailbird.data.tweets_2017_11 =
   "id" : 925595802105458688,
   "created_at" : "2017-11-01 05:30:10 +0000",
   "user" : {
-    "name" : "Geo Inquiets",
+    "name" : "Geo Inquiets \uD83C\uDF0D",
     "screen_name" : "geoinquiets",
     "protected" : false,
     "id_str" : "248286851",
